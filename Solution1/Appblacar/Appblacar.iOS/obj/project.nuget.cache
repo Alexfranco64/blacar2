@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKhP1qiHUuj/xP0LBxascuUhYGdCBJnD/8wvpZAFsm7Eyg6PIK1iK1SwxEtsjtkSSskEDGlz9JrIr10V1bWPxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frank\\Downloads\\Solution1\\Solution1\\Appblacar\\Appblacar.iOS\\Appblacar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frank\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}
